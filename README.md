@@ -20,7 +20,7 @@
 <img src="https://myreadme.vercel.app/api/embed/cintiaching?panels=userstatistics,commitgraph,toplanguages" alt="reimaginedreadme" />
 
 
-Credit to https://github.com/alexandresanlim/Badges4-README.md-Profile for all the cool badges.
+Credit to https://github.com/alexandresanlim/Badges4-README.md-Profile for all the cool badges, and https://github.com/PressJump/reimaginedreadme for the cool widget.
 <!--
 **cintiaching/cintiaching** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
