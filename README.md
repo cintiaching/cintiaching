@@ -15,11 +15,12 @@
 <a href="mailto:swching.cintia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 ### Interests
-<a href="https://mcdonalds.com.hk/en/" target="_blank"><img src="https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white" /> <img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" />
+<a href="https://mcdonalds.com.hk/en/" target="_blank"><img src="https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white" /> </a> <img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" />
 
 <img src="https://myreadme.vercel.app/api/embed/cintiaching?panels=userstatistics,commitgraph,toplanguages" alt="reimaginedreadme" />
 
 
+Credit to https://github.com/alexandresanlim/Badges4-README.md-Profile for all the cool badges.
 <!--
 **cintiaching/cintiaching** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
