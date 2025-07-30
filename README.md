@@ -10,7 +10,7 @@ I am a data scientist with expertise in statistical analysis, machine learning, 
 
 ## 💻 Tech Stack
 ### 👩‍💻 Language
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cintiaching&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide=jupyter%20notebook" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cintiaching&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide=jupyter%20notebook&langs_count=10&hide_title=true" alt="ovi" />
 
 ### 🛠️ Things I Code With
 
