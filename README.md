@@ -10,7 +10,7 @@ I am a data scientist with expertise in statistical analysis, machine learning, 
 
 ## 💻 Tech Stack
 ### 👩‍💻 Language
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cintiaching&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide=jupyter%20notebook" alt="ovi" />
 
 ### 🛠️ Things I Code With
 
