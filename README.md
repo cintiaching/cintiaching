@@ -18,9 +18,6 @@ I am a data scientist with expertise in statistical analysis, machine learning, 
 
 <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" /> <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" /> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" /> ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-## 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=cintiaching&theme=dark&hide_border=false)<br/>
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=cintiaching&theme=blueberry&no-frame=true&no-bg=true&margin-w=4)
 
